@@ -75,7 +75,7 @@ For the tiles detection, we measure the voltage drop of LEDs of different colors
 For the potentiometers, the are in voltaje divider configuration to ensure linear input. Also, diodes are required due to the matrix configuration previously mentioned. This slightly restricts the range of operation.
 
 <p align="center">
-  <img src="MEDIA/Schematics.jpg" width="800" alt="Schematics" />
+  <img src="MEDIA/Schematic.jpg" width="800" alt="Schematics" />
 </p>
 
 

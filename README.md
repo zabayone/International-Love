@@ -5,7 +5,7 @@
 <h1 align="center">T.I.L.E.S</h1>
 
 <p align="center">
- TANGIBLE INTERFACE FOR LAYERED SOUND ELECTRONICS
+ TANGIBLE INTERFACE FOR LAYERED ELECTRONIC SOUNDS
 </p>
 
 ### Description
